@@ -1,0 +1,33 @@
+/* body{
+    background-color:rgba(255,0,0,0.1);
+    background-image:url(arun/slider2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size:cover;
+} */
+/* body{
+background: url(arun/slider2.jpg) no-repeat fixed center / cover ;
+} */
+/* ul{
+    list-style-type:none ;
+    list-style-image:url(arun/marker.png);
+    list-style-position: inside;
+    
+
+} */
+/* ul{
+    list-style: square url(arun/marker.png) outside;
+} */
+body{
+    background-image:url(arun/marker.png);
+    background-repeat: repeat-x;
+    
+
+}
+heading{
+    border:1px;
+}
+.red{
+    background-color:rgb(162, 74, 74)
+}
